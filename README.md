@@ -8,6 +8,7 @@ This script will copy core-site.xml to the needed directories for Intelligent in
 
 vi ~/.baschrc
 export INCORTA_HOME=/home/incorta/IncortaAnalytics/
+
 source ~/.baschrc
 
 ./cp_core.py /path/to/yourfile/core-site.xml
