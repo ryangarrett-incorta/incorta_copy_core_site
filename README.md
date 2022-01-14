@@ -5,6 +5,7 @@ This script will copy core-site.xml to the needed directories for Intelligent in
 
 #Linux usage
 #Create INCORTA_HOME varible in bashrc pointing to your file path
+
 vi ~/.baschrc
 export INCORTA_HOME=/home/incorta/IncortaAnalytics/
 source ~/.baschrc
