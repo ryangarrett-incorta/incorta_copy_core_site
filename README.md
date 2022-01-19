@@ -4,6 +4,11 @@ This script will copy core-site.xml to the needed directories for Intelligent in
 
 
 #Linux usage
+
+Copy cp_core.py to server with Incorta installed
+
+chmod 755 cp_core.py
+
 #Create INCORTA_HOME varible in bashrc pointing to your file path
 
 vi ~/.baschrc
